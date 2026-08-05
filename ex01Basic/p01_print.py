@@ -1,4 +1,5 @@
 # Python: script 언어(소스코드를 한 줄씩 읽어 바로 실행하는 Interpreter방식)
+# Python은 들여쓰기를 반드시 지켜야 함
 '''
 interpreter 방식을 사용하기 위해서 REPL이라는 도구를 사용합니다.
 ReadEvaluationPrintLoop
