@@ -96,8 +96,7 @@ print("{:_d}".format(1234567))
 + → 양수에도 부호 표시
 12 → 폭
 .4 → 소수점 4자리
-f → 고정 소수점
-'''
+f → 고정 소수점 '''
 print("[fill][align][sign][#][0][width][grouping][.precision][type]")
 print("{:+08d}".format(-123))
 print("{:08d}".format(-123))
