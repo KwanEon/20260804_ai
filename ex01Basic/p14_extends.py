@@ -140,7 +140,7 @@ b.show_name()
 a = Korea("대한민국", 50000000, '서울')
 a.show_capital()
 
-printt("파이썬에는 interface는 없다.")
+printt("파이썬에는 interface가 없다.")
 from abc import ABC, abstractmethod
 
 # 추상클래스를 마치 interface처럼 사용
